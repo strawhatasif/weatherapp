@@ -2,7 +2,7 @@
 
 This app is based on the one in the following repo: https://github.com/StephenGriderStephenGrider/ReduxSimpleStarter.git
 
-If you are interested in the course I took - please go here: [Redux](https://www.udemy.com/react-redux/)?
+If you are interested in the course I took - please go here: [Redux](https://www.udemy.com/react-redux/)
 
 ###Getting Started###
 
